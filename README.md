@@ -30,29 +30,38 @@
 
 ## 🛠️ Skills & Tools
 
-**Frontend**
+<table border="0" align="center" justify-content="space-between">
+  <tr>
+    <td>
+        
+  **Frontend**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+  </p>
+  
+  **Backend (Leveling up 🚀)**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
+  </p>
+    </td>
+    <td>
+      
+  **Design**
+  <p>
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,canva&theme=dark" />
+  </p>
+  
+  **Other Tools**
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" />
+  </p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-</p>
-
-**Backend (Leveling up 🚀)**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
-</p>
-
-**Design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,canva&theme=dark" />
-</p>
-
-**Other Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" />
-</p>
 
 ---
 
