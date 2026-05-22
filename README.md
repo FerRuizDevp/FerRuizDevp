@@ -20,11 +20,17 @@
 
 ## 🧩 About Me
 
-- 🎨 **Frontend Developer & UI/Graphic Designer** with almost 5 years of experience
-- 🎓 **IBM Full-Stack Software Development Specialization** — Completed ✅
-- 🌱 Currently exploring **full-stack development, AI integrations & building my own products**
+## Hi, I'm Fernanda 👋
+
+Full-Stack Developer with a design background — I build things that look great *and* work great.
+
+- 🎨 5 years in **UI & Graphic Design**
+- 🎓 **IBM Full-Stack Software Development Specialization** — (✅ Completed in Mar 2026)
+- ⚛️  Stack: React · Node.js · Python · Django · Flask · Docker · Kubernetes
+- 🌱 Currently exploring **Full-stack Development, AI Integrations, Building my own products & Job hunting**
 - 🎯 Goal: Land a remote role as a **React / Full-Stack Developer**
-- ✨ I believe good design and good code are two sides of the same coin
+
+>"✨ I believe good design and good code are two sides of the same coin"
 
 ---
 
