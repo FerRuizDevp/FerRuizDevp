@@ -78,10 +78,10 @@ Full-Stack Developer with a design background — I build things that look great
 <table>
   <tr>
     <td width="100%">
-      <h3>🎨 <a href="https://professional-animated-portfolio.onrender.com/">Personal Portfolio</a></h3>
+      <h3>🎨 <a href="https://ferruizdevp.github.io/professional-animated-portfolio/">Personal Portfolio</a></h3>
       <p>Modern animated portfolio showcasing my design background and web development projects. Built with React and smooth UI animations.</p>
       <p>
-        <a href="https://professional-animated-portfolio.onrender.com/">
+        <a href="https://ferruizdevp.github.io/professional-animated-portfolio/">
           <img src="https://img.shields.io/badge/🌐%20Live%20Demo-A78BFA?style=for-the-badge" />
         </a>
         <a href="https://github.com/FerRuizDevp/react-animated-portfolio">
