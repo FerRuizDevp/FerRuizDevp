@@ -75,7 +75,7 @@ Full-Stack Developer with a design background — I build things that look great
 
 **✅ Live**
 
-<table>
+<table width="100%">
   <tr>
     <td width="100%">
       <h3>🎨 <a href="https://ferruizdevp.github.io/professional-animated-portfolio/">Personal Portfolio</a></h3>
@@ -95,30 +95,41 @@ Full-Stack Developer with a design background — I build things that look great
       </p>
     </td>
   </tr>
-</table>
-
-<br/>
-
-**🔧 In Progress**
-
-<table>
+  <tr><td>&nbsp;</td></tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📧 Email Marketing + Web Integration</h3>
-      <p>Real-world project combining email automation with a professional web UI — built around actual workflows, not just demos.</p>
+    <td width="100%">
+      <h3>🛍️ <a href="https://unapologica-store.onrender.com/">Unapologica Store</a></h3>
+      <p>Full-stack e-commerce platform built end-to-end — from UI design to deployed product.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web%20UI-A78BFA?style=flat-square" />
+        <a href="https://unapologica-store.onrender.com/">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-A78BFA?style=for-the-badge" />
+        </a>
+        <a href="https://github.com/FerRuizDevp/unapologica-store">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Book Pairing App</h3>
-      <p>An app that pairs books together based on themes, mood, or genre — for readers who always need to know what's next.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
+        <strong>Frontend</strong><br/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Coming%20Soon-6D28D9?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
+      </p>
+      <p>
+        <strong>Backend</strong><br/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black" />
+      </p>
+      <p>
+        <strong>Integrations</strong><br/>
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Polar-0EA5E9?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stream-005FFF?style=flat-square&logo=stream&logoColor=white" />
+        <img src="https://img.shields.io/badge/ImageKit-00A2E0?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
       </p>
     </td>
   </tr>
