@@ -136,7 +136,7 @@ Full-Stack Developer with a design background — I build things that look great
   <tr><td>&nbsp;</td></tr>
   <tr>
     <td width="100%">
-      <h3>🛍️ <a href="https://inventory-management-website-five.vercel.app">Inventory Management System</a></h3>
+      <h3>📦 <a href="https://inventory-management-website-five.vercel.app">Inventory Management System</a></h3>
       <p>A full-stack inventory management app built with Next.js, letting users track products, monitor stock levels, and manage inventory through a real-time dashboard.</p>
       <p>
         <a href="https://inventory-management-website-five.vercel.app">
