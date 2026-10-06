@@ -133,6 +133,19 @@ Full-Stack Developer with a design background — I build things that look great
       </p>
     </td>
   </tr>
+  <tr><td>&nbsp;</td></tr>
+  <tr>
+    <td width="100%">
+      <h3>🛍️ <a href="https://inventory-management-website-five.vercel.app">Inventory Management System</a></h3>
+      <p>A full-stack inventory management app built with Next.js, letting users track products, monitor stock levels, and manage inventory through a real-time dashboard.</p>
+      <p>
+        <a href="https://inventory-management-website-five.vercel.app">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-A78BFA?style=for-the-badge" />
+        </a>
+        <a href="https://github.com/FerRuizDevp/inventory-management-website">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
 </table>
 
 ---
